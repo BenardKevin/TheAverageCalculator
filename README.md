@@ -1,0 +1,2 @@
+# Java exercise: "Le calculateur de moyenne"
+You are tasked with designing a program for a school that wants to automate the calculation of averages for several students. Each student has several grades, and the program must calculate the average for each student, as well as the overall average for the entire class.
